@@ -4,6 +4,8 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/46814661/190852208-97aee2a8-8a0b-4de1-8eb0-56906e5d6dad.png">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alex13f13&label=Profile%20views&color=0e75b6&style=flat" alt="alex13f13" /> </p>
+
 - 🔭 I’m currently working on [Encamina](https://www.encamina.com)
 
 - 🌱 I’m currently learning **React, JavaScript & GitHub**
