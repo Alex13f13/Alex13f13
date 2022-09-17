@@ -1,3 +1,4 @@
+![logo](https://github.com/Alex13f13/Alex13f13/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Alejandro Feijóo</h1>
 <h3 align="center">A passionate Frontend Developer from Madrid, Spain</h3>
 
